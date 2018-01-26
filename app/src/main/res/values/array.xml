@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_section_labels">
+        <item>@string/setting_Tag_Debate_label</item>
+        <item>@string/setting_Tag_Economy_label</item>
+        <item>@string/setting_Tag_Education_label</item>
+        <item>@string/setting_Tag_Immigration_label</item>
+
+    </string-array>
+    <string-array name="setting_section_values">
+        <item>@string/setting_Tag_Debate_value</item>
+        <item>@string/setting_Tag_Economy_value</item>
+        <item>@string/setting_Tag_Education_value</item>
+        <item>@string/setting_Tag_Immigration_value</item>
+    </string-array>
+</resources>

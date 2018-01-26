@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_home">Latest News</string>
+    <string name="title_dashboard">Articles</string>
+    <string name="title_notifications">Exit</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="no_more_articles">No more Articles</string>
+
+    <string name="settings">Settings</string>
+    <string name="setting_query_label">Category Name</string>
+    <string name="setting_query_key"  >query_name</string>
+    <string name="setting_query_default"  >WORLD</string>
+
+    <string name="setting_Tag_label">Tag Name</string>
+    <string name="setting_Tag_key" translatable="false">Tag_name</string>
+    <string name="setting_Tag_default" translatable="false">@string/setting_Tag_global_value</string>
+
+    <string name="setting_Tag_Debate_label">Debate</string>
+    <string name="setting_Tag_Debate_value" translatable="false">debate</string>
+
+    <string name="setting_Tag_Economy_label"> Economy  </string>
+    <string name="setting_Tag_Economy_value" translatable="false"> economy  </string>
+
+    <string name="setting_Tag_Education_label">Education</string>
+    <string name="setting_Tag_Education_value" translatable="false">education</string>
+
+    <string name="setting_Tag_Immigration_label"> Immigration  </string>
+    <string name="setting_Tag_Immigration_value" translatable="false">immigration </string>
+
+    <string name="setting_Tag_global_label">Global</string>
+    <string name="setting_Tag_global_value" translatable="false">global_development</string>
+    <string name="you_need_to_connect_to_the_internet_first">You need to connect to the Internet first</string>
+    <string name="news_title_placeholder">News Title</string>
+    <string name="contributor_placeholder">Contributor</string>
+    <string name="date_placeholder">Date</string>
+    <string name="tag_placeholder">Tag</string>
+</resources>
