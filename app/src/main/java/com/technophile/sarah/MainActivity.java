@@ -29,7 +29,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity
         implements NavigationView.OnNavigationItemSelectedListener, LoaderManager.LoaderCallbacks<List<Articles>> {
-    private static final String API_KEY = "055d5346-43cd-413d-98e0-0f21847bf327";
+    private static final String API_KEY = "your-api-key";
     private static final int NEWS_LOADER_ID = 1;
     private static final int SETTINGS_RESULTS = 12;
     private ArticleAdapter mArticleAdapter;
